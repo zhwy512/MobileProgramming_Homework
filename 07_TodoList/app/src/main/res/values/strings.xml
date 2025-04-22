@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Todo List</string>
+    <string name="add_task">Add Task</string>
+    <string name="task_name">Task name</string>
+    <string name="due_date">Due date</string>
+    <string name="sort_by_name">Sort by name</string>
+    <string name="sort_by_date">Sort by date</string>
+</resources>
